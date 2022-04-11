@@ -1,6 +1,6 @@
 ---
-createdAt: 2021-02-18
-title: Time to add your own content
+createdAt: 2022-04-11T16:24:05.702Z
+title: Contenu normal
 description: Remove all of the .md-files in the /content folder and go at it!
 ---
 
